@@ -22,4 +22,4 @@ Get-AppxPackage *SoundRecorder* | Remove-AppxPackage
 Get-AppxPackage *bingweather* | Remove-AppxPackage
 dism /Online /Cleanup-Image /ScanHealt
 echo " no hay truco "
-echo " crybaby "
+echo " -crybaby- "
