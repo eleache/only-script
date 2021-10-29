@@ -28,6 +28,7 @@ pkg i python && pip install -U sqlmap;
 pkg i vim;
 pkg i ffmpeg python && pip install -U youtube_dl;
 pkg install proot-distro;
-proot-distro install debian-buster;
-echo 'yeah! we go to debian buster' && sleep 4;
-proot-distro login debian-buster;
+proot-distro install debian;
+echo 'yeah! vas a iniciar sesion en debian linux' && sleep 4;
+echo 'Aqui termina la ayuda de eleAche, consulta el archivo, debian-termux para explotar al maximo tu nuevo sistema'
+proot-distro login debian;

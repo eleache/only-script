@@ -2,8 +2,8 @@
 
 # dedicated to installing dependencies for security audits for educational purposes. Complement of Sigsploit (Attack tool for #SS7 / 4G LTE Telecom Signaling Exploitation Framework)
 # author.ofThisScript: eleache
-sudo apt-get install grass-core libosmo-sigtran-dev libosmo-sigtran-doc libosmo-sigtran5 libosmomtp0 libqgisgrass7-3.16.10 libss7-2.0 libss7-dev osmo-stp
 
+sudo apt-get install grass-core libosmo-sigtran-dev libosmo-sigtran-doc libosmo-sigtran5 libosmomtp0 libqgisgrass7-3.16.10 libss7-2.0 libss7-dev osmo-stp
 
 #grass-core 
 #libosmo-sigtran-dev - Development headers for the Osmocom SIGTRAN library
